@@ -1,0 +1,3 @@
+Tenkte å legge til et system der man kunne kjøpe mer av ett produkt, og at prisen reagerte med antall prdoukter man kjøper. Dette fikk jeg ikke tid til.
+
+I tillegg skulle jeg ha mer innhold i html dokumentene. Dette fikk jeg heller ikke tid til. 
