@@ -1,5 +1,5 @@
-display = document.getElementById("hardware");
-paymentWindow = document.getElementById("buyWindow");
+var display = document.getElementById("hardware");
+var paymentWindow = document.getElementById("buyWindow");
 
 function buy() {
     display.classList.toggle("hide");
